@@ -1,17 +1,10 @@
 # 👋 Hi, I'm Nadine!  
 
 ---
-CS Student @ Egyptian Chinese University 🎓
 
-📩 Email • 💼 LinkedIn 
+Computer & Information Systems Student  @ Egyptian Chinese University 🎓
 
----
-
-🎓 Computer & Information Systems Student 
-💡 Passionate about **Tech, Programming, and Innovation**  
-🤖 Love building **AI & Machine Learning models** that solve real problems  
-🌐 Enjoy turning ideas into reality through **Frontend Web Development**  
-🛡️ True passion: **Cyber Security** — securing the digital future  
+📩 Email: [nadinemahmoud656@gmail.com](mailto:nadinemahmoud656@gmail.com) • 💼 LinkedIn: [Nadine Mahmoud](https://www.linkedin.com/in/nadine-mahmoud-998b992a5/)
 
 ---
 
