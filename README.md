@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Nadine!  
 
-🎓 Computer & Information Systems Student (aka CS Student)  
+---
+CS Student @ Egyptian Chinese University 🎓
+
+📩 Email • 💼 LinkedIn 
+
+---
+
+🎓 Computer & Information Systems Student 
 💡 Passionate about **Tech, Programming, and Innovation**  
 🤖 Love building **AI & Machine Learning models** that solve real problems  
 🌐 Enjoy turning ideas into reality through **Frontend Web Development**  
@@ -11,24 +18,16 @@
 ## 🔧 Tech Skills  
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-**Domains:**  
-![AI/ML](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white)  
-![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Databases](https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-009688?style=for-the-badge&logo=python&logoColor=white)  
-
-**Other Skills:**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-02569B?style=for-the-badge&logo=thealgorithms&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-FFB400?style=for-the-badge&logo=python&logoColor=black)  
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E1?style=for-the-badge&logo=cisco&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
