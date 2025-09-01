@@ -10,10 +10,7 @@
 
 ## 🔧 Tech Skills  
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
 **Domains:**  
 ![AI/ML](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white)  
@@ -46,12 +43,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-- **Telco Churn Prediction** → Machine learning app predicting customer churn using Python, data preprocessing, resampling techniques, and multiple classification models.  
-- **Breast Cancer Prediction** → ML project predicting breast cancer using advanced preprocessing, balancing, and classification models.  
-
----
-
 ## 💻 Departments (My Fields of Work)
 
 ### 🤖 Artificial Intelligence & Machine Learning
@@ -64,15 +55,8 @@
 
 ### 🛡️ Cyber Security
 - Exploring penetration testing, security protocols, and ethical hacking  
-- Researching secure systems & future security trends  
-
----
-
-## 🔍 Interests
-- Artificial Intelligence (AI)  
-- Cyber Security  
-- Frontend Web Development  
-
+- Researching secure systems & future security trends
+  
 ---
 
 ## 📊 GitHub Stats  
@@ -84,4 +68,4 @@
 
 ---
 
-✨ *Turning coffee ☕ into code, and ideas into projects!* 🚀  
+🛡️ Cyber, AI, Web—mastering the tech universe.
