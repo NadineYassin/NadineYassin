@@ -55,7 +55,3 @@ Computer & Information Systems Student  @ Egyptian Chinese University 🎓
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadineYassin&layout=compact&theme=radical)  
 
-
----
-
-🛡️ Cyber, AI, Web—mastering the tech universe.
