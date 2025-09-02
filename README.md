@@ -52,11 +52,9 @@ Computer & Information Systems Student  @ Egyptian Chinese University 🎓
 ---
 
 ## 📊 GitHub Stats  
-![Nadine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadineYassin&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadineYassin&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadineYassin&theme=radical)  
 
 ---
 
