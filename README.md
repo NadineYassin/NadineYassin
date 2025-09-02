@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Nadine!  
+#  Hi, I'm Nadine!  
 
 ---
 
 Computer & Information Systems Student  @ Egyptian Chinese University 🎓
 
-📩 Email: [nadinemahmoud656@gmail.com](mailto:nadinemahmoud656@gmail.com) • 💼 LinkedIn: [Nadine Mahmoud](https://www.linkedin.com/in/nadine-mahmoud-998b992a5/)
+[📩 Email](mailto:nadinemahmoud656@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nadine-mahmoud-998b992a5/)
 
 ---
 
